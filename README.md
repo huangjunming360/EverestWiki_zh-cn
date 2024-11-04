@@ -1,4 +1,4 @@
-# Resources
-Celeste modding resources collected and maintained by the community.
+# 资源
+由社区收集和维护的Celeste Mod资源
 
-**[Please check the wiki.](https://github.com/EverestAPI/Resources/wiki)**
+**[详情请看百科](https://github.com/EverestAPI/Resources/wiki)**
